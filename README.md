@@ -1,5 +1,6 @@
 
-# Xoch1M0ch1DESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# Zhang Lab
+The Worm Lab at OUHSC
 
 Visit **[xoch1m0ch1.github.io/Zhang-Lab](https://xoch1m0ch1.github.io/Zhang-Lab)** 🚀
 
