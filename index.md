@@ -11,7 +11,7 @@
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our research built around understanding how the nervous system senses external and interal stimuli, producing physiological and behavioral responses, and how "simple" malfunctions in a complex system contribute to human diseases.
 
 {%
   include button.html
@@ -34,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-From animal behavior recording to structural biology, our research uses multidisciplinary approaches to identify the multiple driving forces behind homeostasis.
+From animal behavior recording to structural biology, our projects use multidisciplinary approaches to identify the multiple driving forces behind homeostasis.
 
 {%
   include button.html
