@@ -17,7 +17,7 @@ Our lab is looking for highly motivated, passionate, curious, and brave spirits 
 {%
   include button.html
   type="phone"
-  text="(405) 271-8001 ext. 45534"
+  text="(405) 271-8001"
   link="+1-405-271-8001"
 %}
 {%
