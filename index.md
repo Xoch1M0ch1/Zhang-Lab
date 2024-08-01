@@ -1,7 +1,7 @@
 ---
 ---
 
-# The Worm Lab
+# Here in the Worm lab, we study the neurobiology of homeostasis where we have a special interest in body fluid balance and cilia diseases.  Using multidisciplinary approaches, new tools, and developing novel protocol, we strive to anser the most exciting scientific questions!
 
 
 
