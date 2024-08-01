@@ -1,14 +1,9 @@
 ---
-name: Xinxing Zhang
+name: Kari T Hall
 image: images/photo.jpg
-role: pi
+role: Postdoctoral Researcher
 affiliation: University of Oklahoma Health Sciences Center
-aliases:
-  - X Zhang
-  - Dr. Zhang
-links:
-  home-page: https://xoch1m0ch1.github.io/Zhang-Lab/team/
-  orcid: 0000-0001-8713-9213
+
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
