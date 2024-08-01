@@ -11,7 +11,7 @@
 
 {% capture text %}
 
-Our research built around understanding how the nervous system senses external and interal stimuli, producing physiological and behavioral responses, and how "simple" malfunctions in a complex system contribute to human diseases.
+Our research is built on understanding how the nervous system senses external and interal stimuli, producing physiological and behavioral responses, and how "simple" malfunctions in a complex system contribute to human diseases.
 
 {%
   include button.html
