@@ -1,13 +1,13 @@
 ---
 name: Xinxing Zhang
 image: images/photo.jpg
-role: PI
+role: pi
 affiliation: University of Oklahoma Health Sciences Center
 aliases:
   - X Zhang
   - Dr. Zhang
 links:
-  home-page: https://janesmith.com
+  home-page: https://xoch1m0ch1.github.io/Zhang-Lab/team/
   orcid: 0000-0001-8713-9213
 ---
 
