@@ -1,11 +1,11 @@
 ---
-name: Jane Smith
+name: Xinxing Zhang
 image: images/photo.jpg
-role: pi
-affiliation: University of Colorado
+role: PI
+affiliation: University of Oklahoma Health Sciences Center
 aliases:
-  - J. Smith
-  - J Smith
+  - X Zhang
+  - Dr. Zhang
 links:
   home-page: https://janesmith.com
   orcid: 0000-0001-8713-9213
