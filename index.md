@@ -1,7 +1,7 @@
 ---
 ---
 
-# Here in the Worm lab, we study the neurobiology of homeostasis where we have a special interest in body fluid balance and cilia diseases.  
+# Here in the Worm lab, we study the neurobiology of homeostasis where we have a special interest in body fluid balance and cilia diseases!  
 
 
 
