@@ -1,7 +1,7 @@
 ---
 ---
 
-# Xoch1M0ch1DESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# The Worm Lab
 
 
 
