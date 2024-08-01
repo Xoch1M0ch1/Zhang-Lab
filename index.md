@@ -34,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+From animal behavior recording to structural biology, our research uses multidisciplinary approaches to identify the multiple driving forces behind homeostasis.
 
 {%
   include button.html
