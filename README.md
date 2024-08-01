@@ -1,6 +1,6 @@
 
 # Zhang Lab
-The Worm Lab at OUHSC
+| The Worm Lab at OUHSC
 
 Visit **[xoch1m0ch1.github.io/Zhang-Lab](https://xoch1m0ch1.github.io/Zhang-Lab)** 🚀
 
