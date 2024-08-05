@@ -1,8 +1,7 @@
 ---
 name: Kari Hall
 image: images/image.jpg
-role: Postdoctoral Researcher
-group: alum
+role: postdoc
 affiliation: University of Oklahoma Health Sciences Center
 links: 
   email: kari-t-hall@ouhsc.edu
