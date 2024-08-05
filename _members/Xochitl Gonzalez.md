@@ -1,8 +1,8 @@
 ---
 name: Xochitl Gonzalez
 image: images/photo.jpg
-description: Lab Tech
-role: technician
+description: Laboratory Technician
+role: programmer
 links:
   email: Xochitl-Gonzalez@ouhsc.edu
   
