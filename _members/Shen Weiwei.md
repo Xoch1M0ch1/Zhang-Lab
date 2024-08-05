@@ -2,7 +2,7 @@
 name: Weiwei Shen
 image: images/photo.jpg
 role: Visiting Graduate Student
-group: Student
+group: alum
 links: 
   email: Weiwei-Shen@ouhsc.edu
 ---
