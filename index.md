@@ -60,8 +60,7 @@ From animal behavior recording to structural biology, our projects use multidisc
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+We are a team of excited researchers pursuing the mysteries that surround homeostasis.  We value all individuals and strive to build an equitable research enviroment to freely explore both science and ourselves.
 {%
   include button.html
   link="team"
