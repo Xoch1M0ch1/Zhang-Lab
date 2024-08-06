@@ -1,8 +1,9 @@
 ---
 ---
 
-# Here in the Worm lab, we study the neurobiology of homeostasis where we have a special interest in body fluid balance and cilia diseases!  
+# Where neurobiology and homeostasis go hand in hand 
 
+The Zhang Lab is a research team at the [Oklahoma University Health Sciences Center](https://www.ouhsc.edu/) committed to answering the major and exciting questions regarding the neurobiology of homeostasis.  Our lab is focused on adapting new tools and developing novel protocols to further our knowledge in not only homeostasis, but also in body fluid balance and cilia diseases!
 
 
 {% include section.html %}
