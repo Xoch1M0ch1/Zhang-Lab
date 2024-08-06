@@ -1,6 +1,6 @@
 ---
 name: Xinxing Zhang
-image: images/photo.jpg
+image: images/xinxing-resize_orig.jpg
 role: pi
 affiliation: University of Oklahoma Health Sciences Center
 aliases:
