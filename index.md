@@ -24,7 +24,7 @@ Our research is built on understanding how the nervous system senses external an
 %}
 {:.center}
 {% endcapture %}
-{% include feature.html image="images/Multi worms .jpg %}
+{% include feature.html image="images/Multi worms .jpg" %}
 
 {%
   include feature.html
