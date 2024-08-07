@@ -22,8 +22,9 @@ Our research is built on understanding how the nervous system senses external an
   flip=true
   style="bare"
 %}
-
+{:.center}
 {% endcapture %}
+{% include feature.html image="images/Multi worms .jpg %}
 
 {%
   include feature.html
