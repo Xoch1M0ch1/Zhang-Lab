@@ -1,0 +1,2 @@
+COMMIT=d2160151e52750895571079a6e257beb6e0b1278
+pip install --upgrade git+https://github.com/manubot@$COMMIT
