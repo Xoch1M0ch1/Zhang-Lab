@@ -15,8 +15,10 @@ The Zhang Lab is a research team at the [Oklahoma University Health Sciences Cen
 Our research is built on understanding how the nervous system senses external and interal stimuli, producing physiological and behavioral responses, and how "simple" malfunctions in a complex system contributes to human diseases.
 
 {%
-  include button.html
+  include feature.html
+  image="images/Multi worms .jpg"
   link="research"
+  title="Our Research"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
