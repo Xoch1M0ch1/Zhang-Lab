@@ -61,10 +61,10 @@
 
   <meta name="author" content="Xochitl M Gonzalez">
   <meta property="og:type" content="article">
-  <meta property="og:updated_time" content="2024-08-08T19:40:17+00:00">
+  <meta property="og:updated_time" content="2024-08-08T19:56:24+00:00">
   <meta property="article:published_time" content="2024-08-05T00:00:00+00:00">
-  <meta property="article:modified_time" content="2024-08-08T19:40:17+00:00">
-  <meta name="revised" content="2024-08-08T19:40:17+00:00">
+  <meta property="article:modified_time" content="2024-08-08T19:56:24+00:00">
+  <meta name="revised" content="2024-08-08T19:56:24+00:00">
 
 
 <script type="application/ld+json">
@@ -74,7 +74,7 @@
       "@type": "BlogPosting",
       "author": { "@type": "Person", "name": "Zhang" },
       "datePublished": "2024-08-05T00:00:00+00:00",
-      "dateModified": "2024-08-08T19:40:17+00:00",
+      "dateModified": "2024-08-08T19:56:24+00:00",
     
     "name": "Zhang",
     "description": "The Worm Lab at OUHSC. Here in the Worm lab, we study the neurobiology of homeostasis where we have a special interest in body fluid balance and cilia diseases.  Using multidisciplinary approaches, new tools, and developing novel protocol, we strive to anser the most exciting scientific questions!",
@@ -599,7 +599,7 @@
           href="/Zhang-Lab/blog/"
           data-tooltip="Musings and miscellany"
         >
-          Blog
+          Publications
         </a>
       
     
