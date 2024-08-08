@@ -21,6 +21,9 @@ Animals and humans continuously monitor and regulate body fluid osmolarity to ke
 
 The dysfunction of cilia causes cilia diseases or ciliopathies.  More than 30 ciliopathies are affecting about 1 in 2000 individuals, and almost 200 cilia proteins are associated with ciliopathies.  Cilia diseases often display a wide spectrum of symptoms and affect several vital tissues, e.g., eyes, kidneys, and the central nervous system.  Bardet-Biedl Syndrome (BBS) caused by the BBSome (a cilia protein complex) malfunction is an emblematic cilipathy.  Thus, the study of BBS helps to understand other ciliopathies.  Vision loss, obesity, learning disability, and renal defect are common symptoms of BBS.  Despite the critical roles of the BBSome in transporting signalin molecules inside cilia, it is still unclear how BBS displays those pleiotropic symptoms.  Thus far, no cure is available for BBS, **however**, *C. elegans* provides us a great opportunity to study the mechanisms underlying BBS.  First, *C. elegans* displays similar symptoms as seen in human patients, including vision loss (*C. elegans* has no eyes, but still senses light!), obesity, and learning disability.  Second, *C. elegans* has evolutionarily conserved cilia structures.  More importantly, *C. elegans* mutants that can't develop any cilia are reproducible, which makes it possible to study both cilia-dependent and independent functions of ciliary proteins.  Third, we can use whole animal phenotypes, such as vision loss, as our readouts in genetic screenings, instead of studying the BBSome at cellular levels.  These unique features make *C. elegans* an ideal animal model to uncover BBS etiology, which leads to a surpising find that the BBSome can actually regulate photosensation in *C. elegans* independent of cilia.  Furthermore, the downstream mechanisms could be conserved in human cells which involves upregulation of DLK kinase.
 
-{% include feature.html image="images/SXu_Dev_Cell_Cover_2_cmyk.jpg" %}
+{% include figure.html 
+image="images/SXu_Dev_Cell_Cover_2_cmyk.jpg" 
+height="100%"
+%}
 
 {% include section.html %}
