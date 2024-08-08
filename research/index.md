@@ -23,7 +23,7 @@ The dysfunction of cilia causes cilia diseases or ciliopathies.  More than 30 ci
 
 {% include figure.html 
 image="images/SXu_Dev_Cell_Cover_2_cmyk.jpg" 
-height="100%"
+height="50%"
 %}
 
 {% include section.html %}
