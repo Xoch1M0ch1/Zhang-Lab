@@ -36,4 +36,4 @@ nav:
 - Hollister, K. A., Conner, E. S., **Zhang, X.**, Spell, M., Bernard, G. M., Patel, P., de Carvalho, A. C., Butcher, R. A., & Ragains, J. R. (2013). [Ascaroside activity in Caenorhabditis elegans is highly dependent on chemical structure](https://doi.org/10.1016/j.bmc.2013.07.018). *Bioorganic & medicinal chemistry*, *21*(18), 5754–5769.
 - **Zhang, X.**, Noguez, J. H., Zhou, Y., & Butcher, R. A. (2013). [Analysis of ascarosides from Caenorhabditis elegans using mass spectrometry and NMR spectroscopy](https://doi.org/10.1007/978-1-62703-619-1_6). *Methods in molecular biology (Clifton, N.J.)*, *1068*, 71–92.
 
-{% include section.html %}
+
