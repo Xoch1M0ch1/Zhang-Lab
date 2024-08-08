@@ -17,7 +17,7 @@ Our research is built on understanding how the nervous system senses external an
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="Learn more about our research"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
