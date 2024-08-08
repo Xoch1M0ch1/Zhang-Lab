@@ -21,9 +21,6 @@ Our research is built on understanding how the nervous system senses external an
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
-  include feature.html
-  image="images/Multi worm .jpg"
-  link="research"
 %}
 
 
@@ -34,7 +31,10 @@ Our research is built on understanding how the nervous system senses external an
   image="images/Multi worms .jpg"
   link="research"
   title="Our Research"
-  text=text
+  text="See our publications"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
 %}
 
 {% capture text %}
