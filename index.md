@@ -53,7 +53,7 @@ From animal behavior recording to structural biology, our projects use multidisc
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Zhangs worms Free Moving0002.jpg"
   link="projects"
   title="Our Projects"
   flip=true
