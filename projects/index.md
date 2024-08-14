@@ -13,6 +13,8 @@ Our projects mainly entail our two main topics of interest: body fluid homeostas
 
 {% include search-info.html %}
 
+{% include figure.html image="images/Zhangs worms Free Moving0001 2.mp4" %}
+
 {% include section.html %}
 
 ## Featured
