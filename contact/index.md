@@ -33,10 +33,10 @@ Our lab is looking for highly motivated, passionate, curious, and brave spirits 
 
 {%
   include figure.html
-  image="images/Zhangs worms Free Moving0001 2.mp4"
-  caption="Free moving worms"
-  width="40"
-  height="40"
+  image="images/w1.jpg"
+  caption="*C. elegans* neuron image"
+  width="100%"
+  height="100%"
 %}
 
 {% endcapture %}
@@ -47,8 +47,8 @@ Our lab is looking for highly motivated, passionate, curious, and brave spirits 
   include figure.html
   image="images/2 worms 3.jpg"
   caption="Image of *C. elegans* neurons"
-  height="150%"
-  width="150%"
+  height="100%"
+  width="100%"
 %}
 
 {% endcapture %}
