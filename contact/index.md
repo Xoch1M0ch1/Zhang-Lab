@@ -33,8 +33,8 @@ Our lab is looking for highly motivated, passionate, curious, and brave spirits 
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/Zhangs worms Free Moving0001 2.mp4"
+  caption="Free moving worms"
 %}
 
 {% endcapture %}
