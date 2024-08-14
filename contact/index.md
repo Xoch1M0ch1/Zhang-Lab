@@ -47,8 +47,8 @@ Our lab is looking for highly motivated, passionate, curious, and brave spirits 
   include figure.html
   image="images/2 worms 3.jpg"
   caption="Image of *C. elegans* neurons"
-  height="100%"
-  width="100%"
+  height="150%"
+  width="150%"
 %}
 
 {% endcapture %}
