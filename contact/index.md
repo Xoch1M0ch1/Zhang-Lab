@@ -35,8 +35,8 @@ Our lab is looking for highly motivated, passionate, curious, and brave spirits 
   include figure.html
   image="images/Zhangs worms Free Moving0001 2.mp4"
   caption="Free moving worms"
-  height="40%"
-  width="40%"
+  width="40"
+  height="40"
 %}
 
 {% endcapture %}
